@@ -1,0 +1,30 @@
+{
+  "name": "shiny-palm-tree",
+  "version": "1.0.0",
+  "description": "SystemJS and Jasmine as proof of concept",
+  "main": "index.js",
+  "scripts": {
+    "serve": "./node_modules/.bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safjanowski/shiny-palm-tree.git"
+  },
+  "keywords": [
+    "SystemJS",
+    "Jasmine"
+  ],
+  "author": "Krzysztof Safjanowski <krzysztof@safjanowski.pl> (https://github.com/safjanowski)",
+  "license": "GPL3",
+  "bugs": {
+    "url": "https://github.com/safjanowski/shiny-palm-tree/issues"
+  },
+  "homepage": "https://github.com/safjanowski/shiny-palm-tree#readme",
+  "dependencies": {
+    "systemjs": "^0.19.41"
+  },
+  "devDependencies": {
+    "http-server": "^0.9.0",
+    "jasmine": "^2.5.2"
+  }
+}
